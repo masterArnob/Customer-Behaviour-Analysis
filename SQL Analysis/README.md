@@ -15,6 +15,7 @@ SELECT
 FROM customer
 GROUP BY gender;
 ```
+![3](/assets/1.png)
 
 ### Q2: Which Customers used discount but still spent more than the avarage purchase amount?
 ```sql
@@ -28,7 +29,7 @@ WHERE
 	AND purchase_amount > (SELECT AVG(purchase_amount) FROM customer)
 ;
 ```
-
+![3](/assets/2.png)
 
 ### Q3: Whcih are the top 5 products with the highest avarage review rating?
 ```sql
@@ -40,7 +41,7 @@ GROUP BY item_purchased
 ORDER BY
 	AVG(review_rating) DESC;
 ```
-
+![3](/assets/3.png)
 
 ### Q4: Compare the avarage purchase amounts between standard and express shippings.
 ```sql
@@ -52,6 +53,7 @@ WHERE shipping_type IN('Standard', 'Express')
 GROUP BY
 	shipping_type;
 ```
+![3](/assets/4.png)
 
 ### Q5: Do subscribe customer spand more? 
 ```sql
@@ -63,6 +65,8 @@ FROM customer
 GROUP BY subscription_status;
 ```
 
+![3](/assets/5.png)
+
 ### Q6: Which product have the highest percentage of the purchases with discount applied?
 #### formula: percent = (no. of discount purchases / total purchase) X 100
 ```sql
@@ -73,6 +77,8 @@ FROM customer
 GROUP BY item_purchased
 ORDER BY sale_percent DESC;
 ```
+
+![3](/assets/6.png)
 
 ### Q7: Segment customer into  vip, regular, new based on the total previous purchases show the count segment
 ```sql
@@ -93,6 +99,7 @@ GROUP BY
 	customer_segment
 ORDER BY COUNT(customer_id) DESC;
 ```
+![3](/assets/7.png)
 
 ### Q8: What are the top 3 most purchased product withing each category?
 ```sql
@@ -129,6 +136,7 @@ GROUP BY
 	sale_count,
 	ranking;
 ```
+![3](/assets/8.png)
 
 ### Q9: Are customers who have more than 5 previous purchases are likely to subscribe?
 ```sql
@@ -142,6 +150,8 @@ GROUP BY
 	subscription_status;
 ```
 
+![3](/assets/9.png)
+
 ### Q10: What is the revenue contribution of each age group?
 ```sql
 SELECT
@@ -153,12 +163,13 @@ GROUP BY
 ORDER BY SUM(purchase_amount) DESC
 ;
 ```
+![3](/assets/10.png)
 
 
 
 
 
-![3](/assets/9.png)
+
 
 
 
