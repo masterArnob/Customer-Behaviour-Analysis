@@ -24,7 +24,7 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 
 ## 📄 Report & Presentation Previews
 
-<iframe src="https://drive.google.com/file/d/FILE_ID/preview" width="600" height="500"></iframe>
+<iframe src="https://github.com/masterArnob/Customer-Shopping-Behaviour-Analysis/blob/main/Report/Report.pdf" width="600" height="500"></iframe>
 
 
 
