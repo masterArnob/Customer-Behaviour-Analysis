@@ -36,7 +36,7 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 </p>
 
 <p align="center">
-  <strong>📄 Click on the left image to open the Report</strong> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>🎞️ Click on the right image to open the Slides</strong>
+  <strong>📄 View Report</strong> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>🎞️ View Slide</strong>
 </p>
 
 
