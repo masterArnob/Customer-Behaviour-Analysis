@@ -304,9 +304,10 @@ ORDER BY SUM(purchase_amount) DESC
 ## 👨‍💻 Author
 
 **Sadmanul Hoque**   
-📧 sadmnulhoque21@gmail.com
+📧 sadmnulhoque21@gmail.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/sadmanul-hoque/)  
 💾 [GitHub Profile](https://github.com/masterArnob)
+
 
 
 
