@@ -24,8 +24,15 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 
 ## 📄 Report & Presentation Previews
 
-[![Report Preview](Assets/preview1.png)](report.pdf)
-[![Slides Preview](Assets/preview2.png)](slide.pptx)
+<p align="center">
+  <a href="report.pdf">
+    <img src="Assets/preview1.png" alt="Report Preview" width="300" style="border-radius:10px; margin-right:15px;">
+  </a>
+  <a href="slide.pptx">
+    <img src="Assets/preview2.png" alt="Slides Preview" width="300" style="border-radius:10px;">
+  </a>
+</p>
+
 
 
 
