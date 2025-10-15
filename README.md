@@ -30,7 +30,7 @@ The findings guide **data-driven business decisions** to improve marketing, cust
   <a href="report.pdf">
     <img src="Assets/preview1.png" alt="Report Preview" width="250" style="border-radius:8px; margin-right:20px;">
   </a>
-  <a href="[slide.pptx](https://github.com/masterArnob/Customer-Shopping-Behaviour-Analysis/blob/main/Presentation%20Slide/Customer-Shopping-Behaviour-Analysis.pdf)">
+  <a href="https://github.com/masterArnob/Customer-Shopping-Behaviour-Analysis/blob/main/Presentation%20Slide/Customer-Shopping-Behaviour-Analysis.pdf">
     <img src="Assets/preview2.png" alt="Slides Preview" width="400" style="border-radius:8px;">
   </a>
 </p>
@@ -40,7 +40,7 @@ The findings guide **data-driven business decisions** to improve marketing, cust
     <strong>📄 View Report</strong>
   </a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="slide.pptx" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/masterArnob/Customer-Shopping-Behaviour-Analysis/blob/main/Presentation%20Slide/Customer-Shopping-Behaviour-Analysis.pdf" style="text-decoration: none; color: inherit;">
     <strong>🎞️ View Slide</strong>
   </a>
 </p>
