@@ -25,7 +25,7 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 ## 📄 Report & Presentation Previews
 
 [![Report Preview](Assets/preview1.png)](report.pdf)
-[![Slides Preview](Presentation/slides_preview.png)](slide.pptx)
+[![Slides Preview](Assets/preview2.png)](slide.pptx)
 
 
 
