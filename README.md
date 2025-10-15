@@ -29,11 +29,16 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 <p align="center">
   <a href="report.pdf">
     <img src="Assets/preview1.png" alt="Report Preview" width="250" style="border-radius:8px; margin-right:15px;">
+    <br>
+    <strong>Click to open Report</strong>
   </a>
   <a href="slide.pptx">
     <img src="Assets/preview2.png" alt="Slides Preview" width="400" style="border-radius:8px;">
+    <br>
+    <strong>Click to open Slides</strong>
   </a>
 </p>
+
 
 
 
