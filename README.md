@@ -22,6 +22,13 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 
 ---
 
+## 📄 Report & Presentation Previews
+
+[![Report Preview](Report/report_preview.png)](report.pdf)
+[![Slides Preview](Presentation/slides_preview.png)](slide.pptx)
+
+
+
 ## 🧹 Data Cleaning (Python)
 
 - ✅ Handled missing data  
