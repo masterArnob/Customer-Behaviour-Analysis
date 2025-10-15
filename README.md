@@ -31,13 +31,20 @@ The findings guide **data-driven business decisions** to improve marketing, cust
     <img src="Assets/preview1.png" alt="Report Preview" width="250" style="border-radius:8px; margin-right:20px;">
   </a>
   <a href="slide.pptx">
-    <img src="Assets/preview2.png" alt="Slides Preview" width="250" style="border-radius:8px;">
+    <img src="Assets/preview2.png" alt="Slides Preview" width="4000" style="border-radius:8px;">
   </a>
 </p>
 
 <p align="center">
-  <strong>📄 View Report</strong> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>🎞️ View Slide</strong>
+  <a href="report.pdf" style="text-decoration: none; color: inherit;">
+    <strong>📄 View Report</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="slide.pptx" style="text-decoration: none; color: inherit;">
+    <strong>🎞️ View Slide</strong>
+  </a>
 </p>
+
 
 
 
