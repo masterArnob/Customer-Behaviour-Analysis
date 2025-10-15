@@ -9,7 +9,7 @@
 
 ## 📖 Project Overview
 
-This project analyzes **customer shopping behaviour** using transactional data from nearly **4,000 purchases** across various product categories.  
+This project analyzes **customer shopping behaviour**
 The objective is to uncover insights into:
 
 - Purchase patterns  
@@ -69,8 +69,6 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 ## Analysis Questions
 ### Q1: Product Performance
 ```sql
--- Q: Product Performance
-
 WITH sales_data AS(
 SELECT
 	item_purchased AS product_name,
@@ -96,7 +94,6 @@ FROM sales_data;
 
 ### Q2: Category Performance
 ```sql
--- Q: Category Performance
 WITH sales_data AS(
 SELECT 
 	category,
