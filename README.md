@@ -26,25 +26,19 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 
 ## 📄 Report & Presentation Previews
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-  <!-- Report Card -->
-  <a href="report.pdf" style="text-decoration: none; color: inherit; text-align: center;">
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 5px; width: 250px; box-shadow: 2px 2px 8px #eee;">
-      <img src="Assets/preview1.png" alt="Report Preview" width="100%" style="border-radius: 10px;">
-      <div style="margin-top: 8px; font-weight: bold;">📄 View Report</div>
-    </div>
+<p align="center">
+  <a href="report.pdf">
+    <img src="Assets/preview1.png" alt="Report Preview" width="250" style="border-radius:8px; margin-right:20px;">
   </a>
-
-  <!-- Slides Card -->
-  <a href="slide.pptx" style="text-decoration: none; color: inherit; text-align: center;">
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 5px; width: 250px; box-shadow: 2px 2px 8px #eee;">
-      <img src="Assets/preview2.png" alt="Slides Preview" width="100%" style="border-radius: 10px;">
-      <div style="margin-top: 8px; font-weight: bold;">🎞️ View Slides</div>
-    </div>
+  <a href="slide.pptx">
+    <img src="Assets/preview2.png" alt="Slides Preview" width="250" style="border-radius:8px;">
   </a>
-
 </p>
+
+<p align="center">
+  <strong>📄 Click on the left image to open the Report</strong> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <strong>🎞️ Click on the right image to open the Slides</strong>
+</p>
+
 
 
 
