@@ -22,9 +22,19 @@ The findings guide **data-driven business decisions** to improve marketing, cust
 
 ---
 
+
+
 ## 📄 Report & Presentation Previews
 
-<iframe src="https://github.com/masterArnob/Customer-Shopping-Behaviour-Analysis/blob/main/Report/Report.pdf" width="600" height="500"></iframe>
+<p align="center">
+  <a href="report.pdf">
+    <img src="Assets/preview1.png" alt="Report Preview" width="250" style="border-radius:8px; margin-right:15px;">
+  </a>
+  <a href="slide.pptx">
+    <img src="Assets/preview2.png" alt="Slides Preview" width="250" style="border-radius:8px;">
+  </a>
+</p>
+
 
 
 
