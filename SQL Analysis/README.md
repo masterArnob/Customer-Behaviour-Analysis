@@ -15,7 +15,7 @@ SELECT
 FROM customer
 GROUP BY gender;
 ```
-![3](/assets/1.png)
+![3](/Assets/1.png)
 
 ### Q2: Which Customers used discount but still spent more than the avarage purchase amount?
 ```sql
