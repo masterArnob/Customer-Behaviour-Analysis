@@ -305,17 +305,10 @@ ORDER BY SUM(purchase_amount) DESC
 
 **Sadmanul Hoque**  
 📍 Bangladesh  
-📧 your.email@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-💾 [GitHub Profile](https://github.com/yourusername)
+📧 sadmnulhoque21@gmail.com
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/sadmanul-hoque/)  
+💾 [GitHub Profile](https://github.com/masterArnob)
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 
 
