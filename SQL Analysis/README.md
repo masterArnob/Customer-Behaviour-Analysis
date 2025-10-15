@@ -27,7 +27,7 @@ FROM
 WHERE 
 	discount_applied = 'Yes' 
 	AND purchase_amount > (SELECT AVG(purchase_amount) FROM customer)
-;
+ORDER BY purchase_amount DESC;
 ```
 ![3](/assets/2.png)
 
